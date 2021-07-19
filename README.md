@@ -1,2 +1,1 @@
-# GEM_OpenMP_ascent
- 
+# GEM-parallel-coupling
